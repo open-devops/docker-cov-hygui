@@ -1,3 +1,5 @@
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?maxAge=2592000)](https://hub.docker.com/r/devopsopen/docker-cov-hygui/)
+
 # docker-cov-hygui
 COV Hygieia UI Image for Open DevOps Pipeline
 
