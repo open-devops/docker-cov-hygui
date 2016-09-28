@@ -1,0 +1,3 @@
+#  COV Hygieia Image for Open DevOps Pipeline
+Hygieia:
+  image:  devopsopen/docker-cov-hygui

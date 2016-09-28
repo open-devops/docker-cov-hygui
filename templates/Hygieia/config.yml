@@ -1,0 +1,8 @@
+name:  OpenDevOps-Hygieia
+description: |
+   COV Hygieia Image for Open DevOps Pipeline
+version:  1.0.0
+category:  COV 
+maintainer:  open.devops
+license:  Apache 2
+projectURL: https://github.com/ open-devops/docker-cov-hygui

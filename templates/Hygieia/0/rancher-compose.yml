@@ -1,0 +1,7 @@
+.catalog:
+  name:  OpenDevOps-Hygieia
+  version:  1.0.0
+  description:  COV Hygieia Image for Open DevOps Pipeline
+  uuid: #
+  minimum_rancher_version: #
+  questions: #
